@@ -14,9 +14,13 @@ python multiples.py input.txt output.txt
 
 ## Example
 Example input file content:
+```
 5 8 31
 4 7 20
+```
 
 Example screen output and output file content:
+```
 20:4 7 8 12 14 16 
 31:5 8 10 15 16 20 24 25 30
+```
