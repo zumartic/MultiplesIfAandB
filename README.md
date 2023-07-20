@@ -7,7 +7,7 @@ MultiplesOfAandB takes a file as the first command line argument. The file need 
 
 First number in a row is A and the second is B, third one is the goal number (as in theorem 20). The program searches all multiples of A and B which are below the third number, prints it out to screen and also write results to file which needs to be given as the second command line argument. Program sorts out the results to ascending order based on multiples count on certain row.
 
-**MultiplesOfAndB can be run by using Python**
+**Program can be run by using Python**
 ```
 python multiples.py input.txt output.txt
 ```
